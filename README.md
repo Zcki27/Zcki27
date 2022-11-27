@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zcki27
-- 👀 I’m interested in Data Science to make Business more insightfull
+- 👀 I’m interested in Data Analytics, Data Science, Machine Learning to make Business more insightfull
 - 🌱 I’m currently learning Python and Machine Learning
 - 💞️ I’m looking to collaborate to build value to others
 - 📫 How to reach me mail to: fuadzulzaki27@gmail.com

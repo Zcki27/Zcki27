@@ -20,3 +20,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zcki27&show_icons=true&locale=en&layout=compact" alt="zcki27" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zcki27&show_icons=true&locale=en" alt="zcki27" /></p>
+
+![snake gif](https://github.com/Zcki27/Zcki27/blob/output/github-contribution-grid-snake.gif)
